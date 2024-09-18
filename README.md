@@ -32,3 +32,6 @@ Build an app that is functionally similar to https://personal-portfolio.freecode
 
 ## Note
 Be sure to add ```<link rel="stylesheet" href="styles.css">``` in your HTML to link your stylesheet and apply your CSS
+
+## 🛠 Skills
+HTML, CSS
